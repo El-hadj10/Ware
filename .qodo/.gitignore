@@ -1,0 +1,8 @@
+# Ignore tout sauf la structure et les exemples
+!agents/
+!workflows/
+!reports/
+*.json
+*.md
+*.py
+!.gitkeep
