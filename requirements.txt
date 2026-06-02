@@ -1,0 +1,22 @@
+# -------------------------------------------------------------------------
+# DEPENDANCES GLOBALES - LABO WARE (EMULATION DE MENACES COGNITIVES)
+# -------------------------------------------------------------------------
+
+# Module 01 : Interception E/S & Hooks graphiques
+pynput==1.7.6
+
+# Module 02 & 03 : Exploration de fichiers, Inotify & Surveillance Processus
+psutil==5.9.8
+watchdog==4.0.0
+
+# Module 03 : Gestion des connexions réseau & Sockets applicatifs
+requests==2.31.0
+
+# Module 04 : Primitives cryptographiques pour chiffrement hybride
+cryptography==42.0.5
+
+# Outils de Qualité Logicielle (Suggestions Copilot & Optimisation Nour)
+black==24.2.0
+flake8==7.0.0
+isort==5.12.0
+pytest==8.0.2

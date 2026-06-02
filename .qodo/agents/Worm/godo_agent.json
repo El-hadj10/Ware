@@ -1,0 +1,24 @@
+{
+  "name": "Audit sécurité Worm",
+  "description": "Agent pentest chargé de vérifier la sécurité du module Worm (propagation, détection réseau, mitigation).",
+  "type": "pentest",
+  "module": "03_Worm",
+  "tasks": [
+    {
+      "title": "Analyse des mécanismes de propagation",
+      "status": "À faire"
+    },
+    {
+      "title": "Détection par IDS/IPS",
+      "status": "En cours"
+    },
+    {
+      "title": "Recherche de failles réseau",
+      "status": "Terminé"
+    },
+    {
+      "title": "Recommandations de mitigation",
+      "status": "Terminé"
+    }
+  ]
+}

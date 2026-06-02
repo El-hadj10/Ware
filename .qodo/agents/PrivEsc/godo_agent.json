@@ -1,0 +1,13 @@
+{
+  "name": "PrivEsc",
+  "description": "Scanner de vecteurs d'élévation de privilèges : SUID GTFOBins, sudo NOPASSWD, world-writable /etc/, PATH hijacking.",
+  "type": "attack",
+  "module": "08_PrivEsc",
+  "tasks": [
+    {"title": "Scanner les binaires SUID vs liste GTFOBins (23 entrées)", "status": "Terminé"},
+    {"title": "Analyser les règles sudo avec sudo -l -n", "status": "Terminé"},
+    {"title": "Vérifier les permissions world-writable sur /etc/ sensibles", "status": "Terminé"},
+    {"title": "Détecter les répertoires PATH world-writable", "status": "Terminé"},
+    {"title": "Tester la détection par privesc_detector.py", "status": "À faire"}
+  ]
+}

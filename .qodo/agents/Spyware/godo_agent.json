@@ -1,0 +1,24 @@
+{
+  "name": "Audit sécurité Spyware",
+  "description": "Agent pentest chargé de vérifier la sécurité du module Spyware (exfiltration, persistance, détection).",
+  "type": "pentest",
+  "module": "02_Spyware",
+  "tasks": [
+    {
+      "title": "Analyse des vecteurs d'exfiltration",
+      "status": "À faire"
+    },
+    {
+      "title": "Détection de persistance",
+      "status": "En cours"
+    },
+    {
+      "title": "Recherche d'IoC (indicateurs de compromission)",
+      "status": "Terminé"
+    },
+    {
+      "title": "Recommandations de mitigation",
+      "status": "Terminé"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# =========================================================================
+# GITIGNORE - LABORATOIRE DE CYBERSECURITE WARE
+# =========================================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- Artefacts d'Exfiltration & Dropzones (Confinement) ---
+exfil_dropzone/
+vault_documents/
+*.enc
+*.key
+ransom_note.txt
+keylog_buffer.txt
+
+# --- Environnements de Développement & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Données de Test & Couverture ---
+.pytest_cache/
+.coverage
+htmlcov/

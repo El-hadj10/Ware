@@ -1,0 +1,13 @@
+{
+  "name": "Persistence",
+  "description": "Installe 3 mécanismes de persistance Linux : injection bashrc, crontab, et autostart .desktop.",
+  "type": "attack",
+  "module": "07_Persistence",
+  "tasks": [
+    {"title": "Implémenter l'injection ~/.bashrc avec marqueur WARE-PERSISTENCE", "status": "Terminé"},
+    {"title": "Ajouter l'entrée crontab avec payload /tmp/.ware_alive", "status": "Terminé"},
+    {"title": "Créer le fichier .desktop dans ~/.config/autostart/", "status": "Terminé"},
+    {"title": "Implémenter la fonction clean_all() de nettoyage", "status": "Terminé"},
+    {"title": "Tester la détection par persistence_detector.py", "status": "À faire"}
+  ]
+}

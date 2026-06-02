@@ -1,0 +1,24 @@
+{
+  "name": "Audit sécurité Keylogger",
+  "description": "Agent pentest chargé de vérifier la sécurité du module Keylogger (analyse des failles, comportements suspects, recommandations).",
+  "type": "pentest",
+  "module": "01_Keylogger",
+  "tasks": [
+    {
+      "title": "Scan des dépendances et imports",
+      "status": "À faire"
+    },
+    {
+      "title": "Détection de keylogging non masqué",
+      "status": "En cours"
+    },
+    {
+      "title": "Vérification de la persistance",
+      "status": "Terminé"
+    },
+    {
+      "title": "Recommandations de mitigation",
+      "status": "Terminé"
+    }
+  ]
+}

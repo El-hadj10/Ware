@@ -1,0 +1,13 @@
+{
+  "name": "Backdoor_C2",
+  "description": "Simule un agent C2 reverse shell TCP sur 127.0.0.1:4444 avec heartbeat et reconnexion automatique.",
+  "type": "attack",
+  "module": "06_Backdoor_C2",
+  "tasks": [
+    {"title": "Implémenter le canal TCP C2 agent/contrôleur", "status": "Terminé"},
+    {"title": "Ajouter le heartbeat et la reconnexion automatique", "status": "Terminé"},
+    {"title": "Exécuter les commandes shell via subprocess", "status": "Terminé"},
+    {"title": "Tester la détection par c2_detector.py", "status": "À faire"},
+    {"title": "Documenter le scénario dans training/README.md", "status": "Terminé"}
+  ]
+}

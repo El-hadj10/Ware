@@ -1,0 +1,13 @@
+{
+  "name": "Cryptominer",
+  "description": "Simule un cryptominer XMR furtif : camouflage prctl kworker, 2 threads SHA-256, connexions pools miniers.",
+  "type": "attack",
+  "module": "09_Cryptominer",
+  "tasks": [
+    {"title": "Implémenter le camouflage prctl (kworker/u:0)", "status": "Terminé"},
+    {"title": "Lancer 2 threads de hachage SHA-256 intensif (500k iter)", "status": "Terminé"},
+    {"title": "Simuler les connexions vers pools XMR (3333/4444/14444)", "status": "Terminé"},
+    {"title": "Limiter la durée d'exécution à 30 secondes", "status": "Terminé"},
+    {"title": "Tester la détection par cryptominer_detector.py", "status": "À faire"}
+  ]
+}

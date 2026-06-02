@@ -1,0 +1,13 @@
+{
+  "name": "SupplyChain",
+  "description": "Simule une attaque supply chain par typosquatting : faux paquet 'requets' importé dynamiquement avec code malveillant.",
+  "type": "attack",
+  "module": "11_SupplyChain",
+  "tasks": [
+    {"title": "Créer le paquet typosquat 'requets' dans un répertoire temporaire", "status": "Terminé"},
+    {"title": "Injecter le payload qui crée /tmp/.ware_supply_chain_poc", "status": "Terminé"},
+    {"title": "Importer dynamiquement le faux paquet via sys.path.insert", "status": "Terminé"},
+    {"title": "Nettoyer automatiquement via TemporaryDirectory context manager", "status": "Terminé"},
+    {"title": "Tester la détection par supply_chain_detector.py", "status": "À faire"}
+  ]
+}

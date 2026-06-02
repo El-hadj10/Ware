@@ -1,0 +1,13 @@
+{
+  "name": "Fileless",
+  "description": "Exécute un payload inoffensif purement en mémoire via exec(compile()) et memfd_create (syscall 319).",
+  "type": "attack",
+  "module": "10_Fileless",
+  "tasks": [
+    {"title": "Exécuter un payload via exec(compile()) sans écriture disque", "status": "Terminé"},
+    {"title": "Créer un fd anonyme avec memfd_create via ctypes.CDLL", "status": "Terminé"},
+    {"title": "Afficher les régions mémoire RWX depuis /proc/<pid>/maps", "status": "Terminé"},
+    {"title": "Vérifier l'absence d'artefacts disque après exécution", "status": "Terminé"},
+    {"title": "Tester la détection par fileless_detector.py", "status": "À faire"}
+  ]
+}

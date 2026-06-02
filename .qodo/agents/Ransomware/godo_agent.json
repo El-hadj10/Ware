@@ -1,0 +1,24 @@
+{
+  "name": "Audit sécurité Ransomware",
+  "description": "Agent pentest chargé de vérifier la sécurité du module Ransomware (chiffrement, gestion des clés, détection).",
+  "type": "pentest",
+  "module": "04_Ransomware",
+  "tasks": [
+    {
+      "title": "Analyse des primitives cryptographiques",
+      "status": "À faire"
+    },
+    {
+      "title": "Vérification de la gestion des clés",
+      "status": "En cours"
+    },
+    {
+      "title": "Détection par antivirus",
+      "status": "Terminé"
+    },
+    {
+      "title": "Recommandations de mitigation",
+      "status": "Terminé"
+    }
+  ]
+}
