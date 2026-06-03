@@ -1,189 +1,359 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,30:1a0000,70:2d0505,100:0f0a00&height=220&section=header&text=W%20A%20R%20E&fontSize=78&fontColor=cc2222&animation=fadeIn&fontAlignY=36&desc=Traité%20d'Architecture%20Offensive%20—%2011%20Modules%20·%20Red%20Team%20Lab&descAlignY=60&descSize=16&descColor=884444" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,30:1a0a40,70:0f1a30,100:0a1a10&height=230&section=header&text=NOUR&fontSize=78&fontColor=c8a84b&animation=fadeIn&fontAlignY=36&desc=Automatisation%20·%20IA%20Locale%20·%20Cybersécurité%20·%20Quête%20Invisible&descAlignY=60&descSize=15&descColor=7799aa" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/psutil-5.9.8-cc2222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flake8-Conforme-00cc66?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GoDo-Framework-882200?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Usage-Lab_Isolé_Uniquement-cc2200?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C8A84B&center=true&vCenter=true&multiline=true&width=720&height=60&lines=Créateur+de+Nour-Net+%7C+AI_Nour+%7C+E-constaline+%7C+Ware;Lumière+·+Ombre+·+Ordre+⚖️✨)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=El-hadj10&color=0a6e40&style=for-the-badge&label=VISITEURS)
-[![GitHub followers](https://img.shields.io/github/followers/El-hadj10?style=for-the-badge&color=1a4a6e&labelColor=0a0820&logo=github&label=Followers)](https://github.com/El-hadj10?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/El-hadj10?style=for-the-badge&color=c8a84b&labelColor=0a0820&logo=github&label=Stars)](https://github.com/El-hadj10)
-
-</div>
+<p align="center">
+  <a href="https://github.com/El-hadj10/Ware">
+    <img src="https://img.shields.io/badge/Dépôt-El--hadj10%2FWare-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/El-hadj10/Ware-Defender">
+    <img src="https://img.shields.io/badge/Blue_Team-Ware--Defender-0044cc?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Modules-11-cc2222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statut-Complet-00cc44?style=for-the-badge" />
+</p>
 
 ---
 
-## 🔭 Qui suis-je ?
+## ⚔️ Présentation
 
+**Ware** est un traité d'architecture offensive en Python qui simule les 11 grandes familles de logiciels malveillants modernes. Chaque module est un PoC autonome, confiné, documenté et validé par flake8. Le projet est le pendant offensif de **[Ware-Defender](https://github.com/El-hadj10/Ware-Defender)**.
 
 ```
-
-╔═══════════════════════════════════════════════════════════════╗
-║  👤  NOUR  —  El-hadj10                                       ║
-║  📍  🌌 Quelque part dans le Cosmos                          ║
-║  🔧  Automatisation réseau · Scraping sécurisé · IA locale    ║
-║  🛡️  Cybersécurité défensive & Analyse de logiciels malveillants║
-║  🌌  En quête perpétuelle de savoir technique et spirituel    ║
-╚═══════════════════════════════════════════════════════════════╝
-
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚔️  WARE  — Red Team Architecture Lab                          ║
+║  Auteur    : Nour  (El-hadj10)                                   ║
+║  Langage   : Python 3.12  ·  Linux uniquement                    ║
+║  Framework : GoDo (.qodo)  ·  flake8 max-line 88 chars           ║
+║  Doctrine  : Al-Basir — Voir l'attaque pour mieux la bloquer     ║
+║  Modules   : 11 PoC  ·  11 Agents GoDo  ·  3 Workflows          ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> *"Lumière (clarity) · Ombre (security) · Ordre (architecture)"*
+> *"On ne défend pas ce que l'on ne comprend pas. Chaque PoC est une lumière portée sur l'ombre."*
 
 ---
 
-## 🚀 Projets Phares
+## 📁 Architecture du Projet
 
-<div align="center">
-
-[![Nour-Net](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=Nour-Net&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=00cc66&border_color=1a3020)](https://github.com/El-hadj10/Nour-Net)
-[![AI_Nour](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=AI_Nour&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=6633cc&border_color=2d0a6e)](https://github.com/El-hadj10/AI_Nour)
-
-[![Ware](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=Ware&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=cc0000&border_color=400a0a)](https://github.com/El-hadj10/Ware)
-[![E-constaline](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=E-constaline&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=e94560&border_color=3a1020)](https://github.com/El-hadj10/E-constaline)
-
-[![nav-starter](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=nav-starter&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=0ea5e9&border_color=0a2030)](https://github.com/El-hadj10/nav-starter)
-[![L-invisible-](https://github-readme-stats.vercel.app/api/pin/?username=El-hadj10&repo=L-invisible-&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&icon_color=9900ff&border_color=2d0a6e)](https://github.com/El-hadj10/L-invisible-)
-
-</div>
-
-### 📋 Vue d'ensemble des projets
-
-| Projet | Description | Stack | Statut |
-|--------|-------------|-------|--------|
-| 🕸️ **[Nour-Net](https://github.com/El-hadj10/Nour-Net)** | Scan réseau défensif · Validation HTTP · Command Center WebSocket · Tor/Privoxy | Python · FastAPI · BeautifulSoup4 | ![Active](https://img.shields.io/badge/-Actif-00cc66?style=flat-square) |
-| 🧠 **[AI_Nour](https://github.com/El-hadj10/AI_Nour)** | IA locale Mistral 7B · Agents autonomes · RAG · Mémoire persistante | Python · FastAPI · Ollama · Next.js | ![Active](https://img.shields.io/badge/-Alpha-9900ff?style=flat-square) |
-| 🛡️ **[Ware](https://github.com/El-hadj10/Ware)** | Traité d'architecture des codes malveillants : Keylogger, Stealer, Worm, Ransomware, IA Polymorphe | Python · Cryptography · Linux System | ![Terminé](https://img.shields.io/badge/-Termin%C3%A9-brightgreen?style=flat-square) |
-| 📋 **[E-constaline](https://github.com/El-hadj10/E-constaline)** | Plateforme de constat en ligne · App Cross-Platform · Backend API | Expo · React Native · Node.js · MongoDB | ![Active](https://img.shields.io/badge/-Dev-e94560?style=flat-square) |
-| 🗺️ **[nav-starter](https://github.com/El-hadj10/nav-starter)** | PWA navigation · Mapbox GL · Routage multimodal · JWT | React · TypeScript · Vite · Mapbox | ![Live](https://img.shields.io/badge/-Live-0ea5e9?style=flat-square) |
-| 🌌 **[L'Invisible](https://github.com/El-hadj10/L-invisible-)** | Film Astral · Oracle IA · Journal des Rêves · Timer Méditation · Canvas Cosmique | HTML · CSS · JS · Canvas · Web Audio | ![Live](https://img.shields.io/badge/-Live-c8a84b?style=flat-square) |
+```
+Ware/
+├── 01_Keylogger/            ─ Capture frappes clavier · pynput · buffer disque
+├── 02_Spyware/              ─ Exfiltration profil user · .ssh · .env · notes
+├── 03_Worm/                 ─ Propagation réseau · scan LAN · pseudo-copie SSH
+├── 04_Ransomware/           ─ Chiffrement AES-256 · Fernet · clé exportable
+├── 05_Malware_IA/           ─ Moteur polymorphique · mutation de signature · IA locale
+├── 06_Backdoor_C2/          ─ Canal TCP C2 · heartbeat · reverse shell confiné
+├── 07_Persistence/          ─ 3 mécanismes : bashrc · crontab · autostart .desktop
+├── 08_PrivEsc/              ─ GTFOBins SUID · sudo NOPASSWD · world-writable /etc/
+├── 09_Cryptominer/          ─ kworker camouflé · SHA-256 intensif · pools XMR simulés
+├── 10_Fileless/             ─ exec(compile()) · memfd_create · /proc/maps RWX
+├── 11_SupplyChain/          ─ Typosquat 'requets' · hook __init__.py · import dynamique
+├── .qodo/
+│   ├── agents/              ─ 11 fichiers godo_agent.json  (type: "attack")
+│   └── workflows/           ─ qodo_resonance.py · godo_orchestrator.py · validate_agents.py
+├── requirements.txt         ─ pynput · cryptography · psutil · colorama
+├── setup.sh                 ─ Installation automatique · venv Python
+└── README.md                ─ Documentation principale
+```
 
 ---
 
-## 🛠️ Stack Réelle — Issue des Projets
+## 🗺️ Les 11 Modules
 
-### 🐍 Python, Systèmes & Cryptographie
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cryptography](https://img.shields.io/badge/Cryptography-🔒-blueviolet?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
-
-### 🤖 IA Locale & LLM
-
-<div align="center">
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-![Mistral 7B](https://img.shields.io/badge/Mistral_7B-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Engine-6633cc?style=for-the-badge&logo=databricks&logoColor=white)
-![Llama2](https://img.shields.io/badge/Llama2-0064E0?style=for-the-badge&logo=meta&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-e92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-</div>
-
-### 🌐 Frontend & Mobile
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-</div>
-
-### ⚙️ Backend, Bases de Données & Cartographie
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor_Network-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox_GL-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+| # | Module | Technique simulée | Fichier PoC | Détecteur associé |
+|---|--------|-------------------|-------------|-------------------|
+| 01 | **Keylogger** | Capture frappes · pynput listener · buffer disque | `keylogger_poc.py` | `keylogger_detector.py` |
+| 02 | **Spyware** | Walk profil user · .ssh · .env · notes · SHA-256 | `infostealer_poc.py` | `spyware_detector.py` |
+| 03 | **Worm** | Scan subnet LAN · socket · propagation simulée SSH | `worm_poc.py` | `worm_detector.py` |
+| 04 | **Ransomware** | AES-256 Fernet · chiffrement récursif · clé exportée | `ransomware_encrypt.py` | `ransomware_detector.py` |
+| 05 | **Malware_IA** | Moteur polymorphique · mutation SHA-256 · padding crypto | `polymorphic_engine.py` | `ia_detector.py` |
+| 06 | **Backdoor_C2** | TCP 4444 · heartbeat · reconnexion · subprocess shell | `backdoor_c2_poc.py` | `c2_detector.py` |
+| 07 | **Persistence** | bashrc injection · crontab · autostart .desktop | `persistence_poc.py` | `persistence_detector.py` |
+| 08 | **PrivEsc** | 23 GTFOBins SUID · sudo NOPASSWD · world-writable /etc/ | `privesc_poc.py` | `privesc_detector.py` |
+| 09 | **Cryptominer** | prctl kworker · SHA-256 x500k · pools XMR (socket) | `cryptominer_poc.py` | `cryptominer_detector.py` |
+| 10 | **Fileless** | exec(compile()) · memfd_create · /proc/maps RWX | `fileless_poc.py` | `fileless_detector.py` |
+| 11 | **SupplyChain** | Typosquat 'requets' · hook __init__ · sys.path.insert | `supply_chain_poc.py` | `supply_chain_detector.py` |
 
 ---
 
-## 📊 Statistiques GitHub
+## 🌐 Vue Hub-and-Spoke — Architecture Offensive
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="220">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=El-hadj10&show_icons=true&bg_color=0a0820&title_color=c8a84b&icon_color=00cc66&text_color=7799aa&border_color=1a3020&hide_border=false&count_private=true&include_all_commits=true" />
+**01 — KEYLOGGER**
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-hadj10&layout=compact&bg_color=0a0820&title_color=c8a84b&text_color=7799aa&border_color=1a2a40&langs_count=8" />
+Listener `pynput.keyboard`
+Buffer mémoire (100 events)
+Flush → `keylog_buffer.txt`
+Timeout 30s · auto-stop
+Frappes spéciales capturées
 
-</div>
+</td>
+<td align="center" width="220">
 
-<div align="center">
+**02 — SPYWARE**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=El-hadj10&theme=dark&background=0a0820&ring=00cc66&fire=c8a84b&currStreakLabel=c8a84b&sideLabels=7799aa&currStreakNum=ffffff&sideNums=ffffff&dates=445566&border=1a3020)](https://git.io/streak-stats)
+Walk récursif profil user
+Cibles : `.ssh/`, `.env`, notes
+SHA-256 par fichier affiché
+Profil fictif inclus pour démo
+Aucune exfiltration réseau
 
-</div>
+</td>
+<td align="center" width="220">
+
+**03 — WORM**
+
+Scan subnet /24 via socket
+Détection hôtes actifs
+Simulation SSH sans auth
+Liste targets `/tmp/.ware_targets`
+Nettoyage automatique
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**04 — RANSOMWARE**
+
+AES-256 via `cryptography.fernet`
+Chiffrement récursif `vault_documents/`
+Clé exportée séparément
+`ransomware_decrypt.py` inclus
+Vault fictif de démonstration
+
+</td>
+<td align="center">
+
+**05 — MALWARE_IA**
+
+`polymorphic_engine.py`
+Moteur polymorphique IA
+Mutation signature SHA-256
+Dérive contrôlée du hash
+Padding aléatoire crypto
+
+</td>
+<td align="center">
+
+**06 — BACKDOOR_C2**
+
+Agent TCP sur 127.0.0.1:4444
+Contrôleur séparé (localhost)
+Heartbeat `[HEARTBEAT] Agent actif`
+Reconnexion auto (3 essais)
+Commandes via `subprocess`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**07 — PERSISTENCE**
+
+Injection `~/.bashrc` + marqueur
+Crontab `*/5 * * * *` `/tmp/.ware_alive`
+`.desktop` dans `~/.config/autostart/`
+Fonction `clean_all()` rollback
+Aucune persistance sans appel
+
+</td>
+<td align="center">
+
+**08 — PRIVESC**
+
+23 GTFOBins dans la liste SUID
+`sudo -l -n` → analyse NOPASSWD
+8 chemins world-writable /etc/
+PATH hijacking (dirs writables)
+Scan passif — aucune élévation
+
+</td>
+<td align="center">
+
+**09 — CRYPTOMINER**
+
+`prctl(15, b"kworker/u:0")` camouflage
+2 threads SHA-256 · 500k iterations
+Sockets vers pools XMR (refusés)
+`threading.Event` stop à 30s
+CPU spike détectable par psutil
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**10 — FILELESS**
+
+`exec(compile(PAYLOAD_SOURCE, ...))`
+`memfd_create(b"ware_memfd", 1)` ctypes
+Affichage régions /proc/maps RWX
+Fd anonyme fermé proprement
+Aucun artefact disque
+
+</td>
+<td align="center">
+
+**11 — SUPPLY CHAIN**
+
+Paquet typosquat `requets`
+Hook `/tmp/.ware_supply_chain_poc`
+`sys.path.insert` + import dynamique
+`TemporaryDirectory` → nettoyage auto
+SHA-256 du paquet affiché
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Ware — Focus Laboratoire Cyber
+## 🤖 GoDo Framework — 11 Agents Attack
 
-```python
-# Traité d'analyse système & primitives cryptographiques
-laboratoire_modules = {
-    "01_Keylogger"  : "Interception des flux d'E/S et hooks système (Al-Hafiz)",
-    "02_Spyware"    : "Exploration sémantique et exfiltration de secrets (Al-Basir)",
-    "03_Worm"       : "Reconnaissance autonome et mouvements latéraux (Al-Muhsi)",
-    "04_Ransomware" : "Chiffrement symétrique hybride de niveau militaire (Al-Qabid / Al-Basit)",
-    "05_Malware_IA" : "Moteur polymorphe adaptatif avec mutation de signatures (Al-Latif)"
+Le framework `.qodo` orchestre les agents IA offensifs. Chaque module dispose d'un `godo_agent.json` de type `"attack"` avec 5 tâches documentées.
+
+```
+.qodo/
+├── agents/
+│   ├── Keylogger/godo_agent.json        ─ type: "attack" · 5 tasks
+│   ├── Spyware/godo_agent.json          ─ type: "attack" · 5 tasks
+│   ├── Worm/godo_agent.json             ─ type: "attack" · 5 tasks
+│   ├── Ransomware/godo_agent.json       ─ type: "attack" · 5 tasks
+│   ├── Malware_IA/godo_agent.json       ─ type: "attack" · 5 tasks
+│   ├── Backdoor_C2/godo_agent.json      ─ type: "attack" · 5 tasks
+│   ├── Persistence/godo_agent.json      ─ type: "attack" · 5 tasks
+│   ├── PrivEsc/godo_agent.json          ─ type: "attack" · 5 tasks
+│   ├── Cryptominer/godo_agent.json      ─ type: "attack" · 5 tasks
+│   ├── Fileless/godo_agent.json         ─ type: "attack" · 5 tasks
+│   └── SupplyChain/godo_agent.json      ─ type: "attack" · 5 tasks
+└── workflows/
+    ├── qodo_resonance.py                ─ Dashboard chromatique · jauge par agent
+    ├── godo_orchestrator.py             ─ Simulation cycle de vie des tâches
+    └── validate_agents.py               ─ Validation structure JSON des 11 agents
+```
+
+**Structure JSON d'un Agent :**
+
+```json
+{
+  "name": "Backdoor_C2",
+  "description": "Simule un agent C2 reverse shell TCP sur 127.0.0.1:4444 avec heartbeat.",
+  "type": "attack",
+  "module": "06_Backdoor_C2",
+  "tasks": [
+    {"title": "Implémenter le canal TCP C2 agent/contrôleur", "status": "Terminé"},
+    {"title": "Ajouter le heartbeat et la reconnexion automatique", "status": "Terminé"},
+    {"title": "Exécuter les commandes shell via subprocess", "status": "Terminé"},
+    {"title": "Tester la détection par c2_detector.py", "status": "À faire"},
+    {"title": "Documenter le scénario dans training/README.md", "status": "Terminé"}
+  ]
 }
+```
 
-# Objectif : Maîtriser l'anatomie de la menace pour architecturer une cyberdéfense comportementale résiliente.
+```bash
+# Dashboard GoDo chromatique (11 jauges de progression)
+python3 .qodo/workflows/qodo_resonance.py
 
+# Valider la structure des 11 agents
+python3 .qodo/workflows/validate_agents.py
+
+# Orchestrer un cycle de simulation
+python3 .qodo/workflows/godo_orchestrator.py
 ```
 
 ---
 
-## 🧠 AI_Nour — Focus
+## 🛠️ Stack Technique
 
-```python
-# Agents Autonomes disponibles
-agents = {
-    "search"   : "Recherche contextuelle via Ollama + Brave",
-    "scrape"   : "Extraction web privacy-first (Tor)",
-    "analyze"  : "Sentiment · Entités · Résumé · Anomalies",
-    "synthesis": "Fusion multi-sources → narrative cohérente"
-}
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pynput-1.7.7-cc4400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cryptography-42.0-882200?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/psutil-5.9.8-aa3300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/colorama-0.4.6-ffaa00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/flake8-7.0-00cc66?style=for-the-badge" />
+</p>
 
-# Modèles LLM locaux supportés
-models = ["mistral:7b", "llama2:7b", "phi:2"]  # 100% local, 0 cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ctypes-Linux_Syscalls-cc2222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/subprocess-Shell_Exec-882200?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/threading-Multi--Thread-aa3300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/socket-TCP_Réseau-cc4400?style=for-the-badge" />
+</p>
 
+---
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/El-hadj10/Ware.git
+cd Ware
+
+# Installation automatique (venv + pip)
+bash setup.sh
+
+# Ou manuellement
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+```
+
+```bash
+source venv/bin/activate
+
+# Exécuter un module individuellement
+python3 01_Keylogger/keylogger_poc.py
+python3 06_Backdoor_C2/backdoor_c2_poc.py
+python3 09_Cryptominer/cryptominer_poc.py
+
+# Dashboard GoDo
+python3 .qodo/workflows/qodo_resonance.py
 ```
 
 ---
 
-## 📡 Roadmap 2026
+## ⚖️ Doctrine Éthique
 
-* [x] **Nour-Net v1** — Scan réseau + Command Center WebSocket
-* [x] **AI_Nour Alpha** — LLM local + Agents autonomes + RAG
-* [x] **E-constaline** — Constat mobile (Android/iOS/Tablette)
-* [x] **nav-starter** — PWA Navigation Mapbox + JWT
-* [x] **L'Invisible v3.0** — PWA Cosmique & Oracle mis à jour → **[🌐 Live](https://el-hadj10.github.io/L-invisible-/)**
-* [x] **Ware v1.0** — Publication du Compendium d'architecture Malware & Cybersécurité
-* [ ] **AI_Nour** — Embeddings sémantiques + Fine-tuning
-* [ ] **E-constaline** — Auth JWT + Signature électronique + PDF
-* [ ] **Nour-Net v2** — Interface visuelle + export enrichi
+> ⚠️ **Usage strictement réservé à un environnement de laboratoire isolé.**
+
+Chaque module de Ware :
+- Ne touche que le système local (`127.0.0.1`, `/tmp`, home utilisateur)
+- Inclut une fonction de nettoyage ou un rollback automatique
+- Est documenté avec ses patterns de détection précis
+- N'établit aucune connexion vers un serveur externe réel
+
+**Son pendant défensif :** [Ware-Defender](https://github.com/El-hadj10/Ware-Defender)
 
 ---
 
-*"Ce que l'œil ne voit pas, le code le révèle."*
+## 🔗 Liens
 
-✒️ El-hadj Nour
+<p align="center">
+  <a href="https://github.com/El-hadj10/Ware">
+    <img src="https://img.shields.io/badge/Dépôt_GitHub-Ware-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/El-hadj10/Ware-Defender">
+    <img src="https://img.shields.io/badge/Blue_Team-Ware--Defender-0044cc?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+  <a href="https://github.com/El-hadj10">
+    <img src="https://img.shields.io/badge/Auteur-El--hadj10-cc2222?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:1a0000,100:0a0000&height=120&section=footer" width="100%" />
+</p>
