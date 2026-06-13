@@ -36,7 +36,7 @@ def setup_fake_environment():
         with open(f"{TARGET_LAB_DIR}/config/.env", "w") as f:
             f.write(
                 "DB_HOST=127.0.0.1\n"
-                "DB_USER=admin\n"
+                "DB_USER=demo_user\n"
                 "DB_PASSWORD=change-me-for-lab\n"
                 "API_TOKEN=demo-token-for-lab"
             )
