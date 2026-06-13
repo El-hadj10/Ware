@@ -10,6 +10,11 @@ __pycache__/
 venv/
 ENV/
 
+# --- Fichiers d'environnement ---
+.env
+.env.*
+!.env.example
+
 # --- Artefacts d'Exfiltration & Dropzones (Confinement) ---
 exfil_dropzone/
 vault_documents/
